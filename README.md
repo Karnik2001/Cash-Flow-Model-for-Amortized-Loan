@@ -8,11 +8,11 @@ Generates an amortization schedule (monthly breakdown of principal and interest)
 
 Visualizes:
 
-Loan balance over time
+- Loan balance over time
 
-Monthly principal vs. interest paid
+- Monthly principal vs. interest paid
 
-Uses Python libraries including pandas, numpy, and matplotlib
+- Uses Python libraries including pandas, numpy, and matplotlib
 
 # 🛠️ Technologies Used
 Python 3
