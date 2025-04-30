@@ -34,6 +34,7 @@ Annual interest rate
 
 Loan term (in years)
 
+
 The model:
 
 Calculates the monthly payment using the amortization formula
