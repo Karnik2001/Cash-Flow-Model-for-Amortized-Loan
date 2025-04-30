@@ -28,28 +28,25 @@ matplotlib
 # 🧮 How It Works
 User inputs loan parameters:
 
-Loan amount
+- Loan amount
 
-Annual interest rate
+- Annual interest rate
 
-Loan term (in years)
-
+- Loan term (in years)
 
 
 The model:
 
-Calculates the monthly payment using the amortization formula
+- Calculates the monthly payment using the amortization formula
 
-Breaks down each monthly payment into interest and principal
+- Breaks down each monthly payment into interest and principal
 
-Tracks the remaining loan balance after each payment
-
-
+- Tracks the remaining loan balance after each payment
 
 
 Visual output:
 
-Line plots showing balance, interest, and principal over time
+- Line plots showing balance, interest, and principal over time
 
 # 📜 License
 This project is licensed under the MIT License.
