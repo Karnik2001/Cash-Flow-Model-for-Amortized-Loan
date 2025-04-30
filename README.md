@@ -35,6 +35,7 @@ Annual interest rate
 Loan term (in years)
 
 
+
 The model:
 
 Calculates the monthly payment using the amortization formula
@@ -42,6 +43,9 @@ Calculates the monthly payment using the amortization formula
 Breaks down each monthly payment into interest and principal
 
 Tracks the remaining loan balance after each payment
+
+
+
 
 Visual output:
 
